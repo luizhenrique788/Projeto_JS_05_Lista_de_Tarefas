@@ -1,2 +1,2 @@
-# Projeto_JS_05_Lista_de_Tarefas
-Projeto_JS_05_Lista_de_Tarefas
+# Projeto_05_Lista_de_Tarefas
+Uma lista de tarefas
